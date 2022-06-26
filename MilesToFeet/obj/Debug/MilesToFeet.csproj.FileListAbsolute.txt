@@ -1,0 +1,6 @@
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\MilesToFeet\MilesToFeet\bin\Debug\MilesToFeet.exe.config
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\MilesToFeet\MilesToFeet\bin\Debug\MilesToFeet.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\MilesToFeet\MilesToFeet\bin\Debug\MilesToFeet.pdb
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\MilesToFeet\MilesToFeet\obj\Debug\MilesToFeet.csprojResolveAssemblyReference.cache
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\MilesToFeet\MilesToFeet\obj\Debug\MilesToFeet.exe
+c:\users\pavol\onedrive\documents\visual studio 2015\Projects\MilesToFeet\MilesToFeet\obj\Debug\MilesToFeet.pdb
